@@ -15,12 +15,7 @@ O objetivo deste repositório é:
 
 ## Projetos disponíveis
 ### Projeto 1: Análise de consultas a acervo cultural a partir de dados operacionais
-Projeto desenvolvido no módulo de Engenharia de Dados, com foco na construção de um pipeline de dados em nuvem a partir de dados públicos de consultas ao acervo da Fundação Biblioteca Nacional. O trabalho foi realizado em ambiente Databricks, com uso predominante de SQL. Etapas:
-- ingestão de dados públicos  
-- organização, limpeza e tratamento dos dados  
-- verificações de qualidade (Data Quality)  
-- análises exploratórias  
-- visualizações e documentação do processo
+Projeto desenvolvido no módulo de Engenharia de Dados, com foco na construção de um pipeline de dados em nuvem a partir de dados públicos de consultas ao acervo da Fundação Biblioteca Nacional. O trabalho foi realizado em ambiente Databricks, com uso predominante de SQL. 
 
 ## Autora
 
