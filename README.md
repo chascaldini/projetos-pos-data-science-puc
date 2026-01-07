@@ -27,6 +27,6 @@ Projeto desenvolvido no módulo de Engenharia de Dados, com foco na construção
 Charlyne Scaldini  
 Historiadora, com atuação em acervos culturais e organização de informações  
 Aluna da pós-graduação em Data Science & Analytics | PUC-Rio
-chascaldini@gmail.com
+chascaldini@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/charlyne-scaldini-92959a2b2/)
 
