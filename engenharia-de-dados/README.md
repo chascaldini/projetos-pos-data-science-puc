@@ -17,7 +17,7 @@ O notebook foi desenvolvido em ambiente Databricks, com uso predominante de SQL,
 - documentação do pipeline, catálogo de dados e linhagem
 
 ### Arquivo principal
-- [MVP_analise_consultas_acervo_FBN_2024.ipynb](engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb)
+- [MVP_analise_consultas_acervo_FBN_2024.ipynb](engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb)  
   Notebook completo do projeto, contendo código, análises, visualizações e documentação técnica.
 
 
