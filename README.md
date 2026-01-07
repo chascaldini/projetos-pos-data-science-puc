@@ -15,12 +15,12 @@ O objetivo deste repositório é:
 
 ## Projetos disponíveis
 ### Projeto 1: Análise de consultas a acervo cultural a partir de dados operacionais
-Projeto desenvolvido no módulo de Engenharia de Dados, com foco na construção de um pipeline de dados em nuvem, utilizando dados de consultas ao acervo da Fundação Biblioteca Nacional e foi desenvolvido em ambiente Databricks, com uso predominante de SQL. O trabalho envolve:
-- ingestão de dados públicos
-- organização e tratamento dos dados
-- verificações de qualidade
-- análises exploratórias
-- visualizações e documentação
+Projeto desenvolvido no módulo de Engenharia de Dados, com foco na construção de um pipeline de dados em nuvem a partir de dados públicos de consultas ao acervo da Fundação Biblioteca Nacional. O trabalho foi realizado em ambiente Databricks, com uso predominante de SQL. Etapas:
+- ingestão de dados públicos  
+- organização, limpeza e tratamento dos dados  
+- verificações de qualidade (Data Quality)  
+- análises exploratórias  
+- visualizações e documentação do processo
 
 ## Autora
 
@@ -28,4 +28,5 @@ Charlyne Scaldini
 Historiadora, com atuação em acervos culturais e organização de informações  
 Aluna da pós-graduação em Data Science & Analytics | PUC-Rio
 chascaldini@gmail.com
-LinkedIn(https://www.linkedin.com/in/charlyne-scaldini-92959a2b2/)
+[LinkedIn](https://www.linkedin.com/in/charlyne-scaldini-92959a2b2/)
+
