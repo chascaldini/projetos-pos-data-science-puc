@@ -18,6 +18,6 @@ O notebook foi desenvolvido em ambiente Databricks, com uso predominante de SQL,
 
 ### Arquivo principal
 - `MVP_analise_consultas_acervo_FBN_2024.ipynb`  
-  [Notebook](engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb) completo do projeto, contendo código, análises, visualizações e documentação técnica. 
+  [Notebook](https://github.com/chascaldini/projetos-pos-data-science-puc/blob/b8825a99ed0a254081563620e75f43b86443d54e/engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb) completo do projeto, contendo código, análises, visualizações e documentação técnica. 
 
 
