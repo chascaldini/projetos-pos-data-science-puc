@@ -18,6 +18,11 @@ O objetivo deste repositório é:
 Projeto desenvolvido no módulo de [Engenharia de Dados](engenharia-de-dados), com foco na construção de um pipeline de dados em nuvem a partir de dados públicos de consultas ao acervo da Fundação Biblioteca Nacional.
 Além da estruturação do pipeline, o projeto busca explorar métricas e padrões derivados de dados operacionais de atendimento, permitindo analisar como, quando e sobre quais tipos de obras o acervo foi consultado ao longo de 2024. O trabalho foi realizado em ambiente Databricks, com uso predominante de SQL.
 
+### Projeto 2: Análise exploratória do acervo do MoMA
+Projeto desenvolvido no módulo de [Análise de Dados e Boas Práticas](analise-de-dados), com foco na exploração de padrões estruturais, curatoriais e históricos a partir do dataset público do Museum of Modern Art (MoMA).
+
+O trabalho envolve análise exploratória (EDA), tratamento de dados e construção de visualizações interativas para compreender a composição do acervo, incluindo tipos de obra, distribuição por departamentos, evolução ao longo do tempo e aspectos de representatividade dos artistas. O projeto foi desenvolvido em Python no ambiente Google Colab e inclui um dashboard interativo no Tableau para síntese dos principais achados.
+
 ## Autora
 
 Charlyne Scaldini  
