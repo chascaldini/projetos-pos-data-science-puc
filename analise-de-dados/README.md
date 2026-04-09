@@ -22,5 +22,4 @@ O notebook foi desenvolvido em ambiente Google Colab, utilizando Python para an√
 
 
 A vers√£o interativa do Dashboard pode ser acessada no Tableau Public:  
-
 [Acessar dashboard no Tableau](https://public.tableau.com/app/profile/charlyne.scaldini/viz/shared/J63GSF6YY)
