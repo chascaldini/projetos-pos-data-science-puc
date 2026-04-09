@@ -15,14 +15,11 @@ O notebook foi desenvolvido em ambiente Databricks, com uso predominante de SQL,
 - análises exploratórias e construção de métricas  
 - documentação do pipeline, catálogo de dados e linhagem
 
-### Acesse o projeto completo
-- `MVP_analise_consultas_acervo_FBN_2024.ipynb`  
-  [Notebook](https://github.com/chascaldini/projetos-pos-data-science-puc/blob/b8825a99ed0a254081563620e75f43b86443d54e/engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb) completo do projeto, contendo código, análises, visualizações e documentação técnica.
-
-[![Acessar Notebook](https://img.shields.io/badge/Acessar-Notebook-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chascaldini/projetos-pos-data-science-puc/blob/main/engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb)
+### Acesse o projeto completo:
 
 [![Abrir Notebook no GitHub](https://img.shields.io/badge/Abrir%20Notebook-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chascaldini/projetos-pos-data-science-puc/blob/main/engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb)
 
-[![Abrir Notebook no GitHub](https://img.shields.io/badge/Abrir%20Notebook-GitHub-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/chascaldini/projetos-pos-data-science-puc/blob/main/engenharia-de-dados/MVP_analise_consultas_acervo_FBN_2024.ipynb)
 
+A versão interativa do Dashboard pode ser acessada no Tableau Public:  
+[Acessar dashboard no Tableau](https://public.tableau.com/views/MVP_uso_acervo_FBN_2024/UsodoacervoFBN2024?:language=pt-BR&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
