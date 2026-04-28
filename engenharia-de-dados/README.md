@@ -2,18 +2,22 @@
 Esta pasta reúne o projeto desenvolvido no módulo de Engenharia de Dados da pós-graduação em Data Science & Analytics (PUC-Rio).
 
 ## Análise de consultas a acervo cultural a partir de dados operacionais
-O projeto tem como objetivo construir um pipeline de dados em nuvem a partir de dados públicos de consultas ao acervo da Fundação Biblioteca Nacional, com foco na análise de métricas operacionais relacionadas ao uso do acervo ao longo de 2024.
+Este projeto parte de um conjunto de dados públicos da Fundação Biblioteca Nacional para investigar, a partir de registros de atendimento, como o acervo vem sendo utilizado na prática ao longo de 2024.
 
-A partir dos registros de consulta, o trabalho explora padrões de uso, variações temporais e diferenças entre unidades de acervo, buscando transformar dados operacionais de atendimento em informações analíticas úteis.
+Mais do que estruturar um pipeline de dados, o trabalho busca transformar dados operacionais - originalmente voltados ao controle de rotina - em uma base organizada e confiável, capaz de responder perguntas sobre padrões de uso, sazonalidade das consultas e diferenças entre unidades e tipos de material.
 
-O notebook foi desenvolvido em ambiente Databricks, com uso predominante de SQL, e contempla as etapas de ingestão, tratamento, validação, análise e visualização dos dados.
+O projeto foi desenvolvido em ambiente Databricks, com uso predominante de SQL, e percorre todas as etapas necessárias para tornar os dados analisáveis: da ingestão inicial à construção de métricas e gráficos que permitem uma leitura mais clara do comportamento dos usuários do acervo.
 
-### Principais atividades desenvolvidas
-- ingestão de dados públicos em formato CSV  
-- organização, limpeza e padronização dos dados  
-- verificações de qualidade (Data Quality)  
-- análises exploratórias e construção de métricas  
-- documentação do pipeline, catálogo de dados e linhagem
+### O que foi construído
+- um pipeline de dados em nuvem, do dado bruto à base analítica  
+- uma estrutura de dados organizada, limpa e padronizada, pronta para análise e visualização  
+- verificações de qualidade para garantir consistência e confiabilidade  
+- métricas e gráficos que evidenciam padrões de uso do acervo  
+- documentação completa do processo, incluindo catálogo de dados e linhagem
+
+- ### Possibilidades de uso
+
+Projetos como este mostram como dados já existentes nas rotinas institucionais podem ser reorganizados e utilizados de forma estratégica, apoiando análises, visualizações e futuras tomadas de decisão relacionadas ao uso e à gestão de acervos.
 
 ### Acesse o projeto completo:
 
