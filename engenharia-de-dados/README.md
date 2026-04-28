@@ -15,7 +15,7 @@ O projeto foi desenvolvido em ambiente Databricks, com uso predominante de SQL, 
 - métricas e gráficos que evidenciam padrões de uso do acervo  
 - documentação completa do processo, incluindo catálogo de dados e linhagem
 
-- ### Possibilidades de uso
+### Possibilidades de uso
 
 Projetos como este mostram como dados já existentes nas rotinas institucionais podem ser reorganizados e utilizados de forma estratégica, apoiando análises, visualizações e futuras tomadas de decisão relacionadas ao uso e à gestão de acervos.
 
