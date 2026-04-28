@@ -2,9 +2,15 @@
 Esta pasta reúne o projeto desenvolvido no módulo de Análise de Dados e Boas Práticas da pós-graduação em Data Science & Analytics (PUC-Rio).
 
 ## Análise exploratória do acervo do MoMA
-O projeto tem como objetivo explorar padrões estruturais, curatoriais e históricos a partir do dataset público da coleção do Museum of Modern Art (MoMA).
+O projeto explora padrões estruturais, curatoriais e históricos a partir do dataset público da coleção do Museum of Modern Art (MoMA), uma das principais instituições de arte moderna e contemporânea do mundo.
 
-A partir dos metadados das obras, o trabalho investiga a composição do acervo sob diferentes perspectivas, como tipos de obra, distribuição por departamentos, evolução temporal e representatividade dos artistas, buscando transformar dados institucionais em insights analíticos.
+A partir dos metadados das obras, a análise investiga como o acervo está constituído em termos de períodos históricos, tipologias, departamentos e representatividade dos artistas, buscando transformar dados institucionais em interpretações analíticas sobre a formação da coleção.
+
+Entre os principais achados, destacam-se:
+- forte concentração de obras ao longo do século XX, especialmente na década de 1960, período mais representado no acervo  
+- predominância de meios reprodutíveis, como gravura (*Print*) e fotografia, na composição da coleção  
+- alta concentração em poucos departamentos, com destaque para *Drawings & Prints*  
+- desigualdade significativa de gênero entre os artistas representados
 
 O notebook foi desenvolvido em ambiente Google Colab, utilizando Python para análise de dados e visualização, e inclui um dashboard interativo no Tableau para síntese dos principais resultados.
 
@@ -14,7 +20,17 @@ O notebook foi desenvolvido em ambiente Google Colab, utilizando Python para an�
 - tratamento de valores ausentes e padronização de variáveis  
 - criação de variáveis derivadas para análise temporal  
 - construção de visualizações interativas  
-- desenvolvimento de dashboard para síntese dos resultados  
+- desenvolvimento de dashboard para síntese dos resultados
+
+### Possibilidades de uso
+
+Os resultados desta análise permitem compreender como um acervo cultural é estruturado e quais padrões históricos e curatoriais influenciam sua composição, oferecendo subsídios para diferentes aplicações práticas:
+- apoio à curadoria e planejamento de exposições, a partir da identificação de períodos e tipologias mais representados  
+- identificação de lacunas de representatividade (como gênero e origem dos artistas), contribuindo para políticas de aquisição mais diversas  
+- análise comparativa entre instituições culturais, a partir de padrões estruturais de acervo  
+- comunicação e difusão de acervos por meio de visualizações e dashboards acessíveis a diferentes públicos  
+
+O projeto demonstra como técnicas de análise de dados podem ser aplicadas a contextos culturais, transformando metadados institucionais em informações estratégicas para tomada de decisão e interpretação do acervo.
 
 ### Acesse o projeto completo no Google Colab:  
 
