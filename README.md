@@ -26,11 +26,15 @@ Além da estruturação do pipeline, o projeto busca explorar métricas e padrõ
 Projeto desenvolvido no módulo de [Análise de Dados e Boas Práticas](analise-de-dados), com foco na exploração de padrões estruturais, curatoriais e históricos a partir do dataset público do Museum of Modern Art (MoMA).
 O trabalho envolve análise exploratória (EDA), tratamento de dados e construção de visualizações interativas para compreender a composição do acervo, incluindo tipos de obra, distribuição por departamentos, evolução ao longo do tempo e aspectos de representatividade dos artistas. O projeto foi desenvolvido em Python no ambiente Google Colab e inclui um dashboard interativo no Tableau para síntese dos principais achados.
 
+### Projeto 3: Classificação textual e técnicas de NLP para sugestão automática de descritores do acervo The Met
+Projeto desenvolvido no módulo de [Machine Learning e Analytics](machine-learning), com foco na aplicação de técnicas de classificação supervisionada e Processamento de Linguagem Natural (NLP) para apoio à catalogação e sugestão automática de descritores em acervos culturais, utilizando o dataset público Open Access do Metropolitan Museum of Art (The Met).
+
+O trabalho envolve análise exploratória de dados (EDA), preparação e representação de metadados textuais com TF-IDF, treinamento e comparação de modelos de classificação, validação cruzada, otimização de hiperparâmetros e exploração semântica complementar com Word2Vec. Desenvolvido em Python no ambiente Google Colab, o projeto investiga o potencial dessas técnicas como ferramentas de apoio à organização da informação, indexação e recuperação da informação em acervos culturais.
+
 ## Autora
 
 Charlyne Scaldini  
-Historiadora, com atuação em acervos culturais e organização de informações  
-Aluna da pós-graduação em Data Science & Analytics | PUC-Rio  
+Historiadora | Estruturação da informação e qualidade de dados para acervos digitais 
 chascaldini@gmail.com  
 [LinkedIn](https://www.linkedin.com/in/charlyne-scaldini-92959a2b2/)
 
