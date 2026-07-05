@@ -1,8 +1,5 @@
 # Classificação textual e técnicas de NLP para apoio à catalogação e sugestão de descritores em acervos culturais: um estudo com o Met Open Access
-MVP de Machine Learning | Pós-Graduação em Data Science & Analytics | PUC-Rio
-
-### Acesse o projeto completo:
-[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1VWpG1qHCgHeC20rcwfWGXnnmi8cpWWcb?usp=sharing)
+Esta pasta reúne o projeto desenvolvido no módulo de Machine Learning da pós-graduação em Data Science & Analytics (PUC-Rio).
 
 ## O desafio
 Descritores são elementos fundamentais para a organização, recuperação e descoberta de informações em acervos culturais. Mas será que é possível identificar padrões nos próprios metadados das obras e utilizá-los para apoiar a sugestão automática desses descritores?
@@ -44,9 +41,11 @@ Definição do problema → Carga dos dados → Inspeção inicial → EDA → S
 * Recuperação da informação
 
 ## Como executar
-1. Abra o notebook pelo botão **Open in Colab** disponível no topo deste repositório.
+1. Abra o notebook pelo botão **Open in Colab** abaixo.
 2. Execute todas as células do início ao fim. O tempo aproximado de execução completa é de 30 minutos.
 3. O notebook foi desenvolvido para execução em Google Colab e utiliza o dataset público do **Metropolitan Museum of Art (Met)** carregado diretamente por URL. Informações adicionais sobre a base de dados estão disponíveis na pasta [`data/`](data/).
 4. Acompanhe a narrativa do notebook, incluindo as etapas de análise exploratória (EDA), modelagem, avaliação dos modelos e exploração semântica com Word2Vec.
 
+### Acesse o projeto completo no Colab:
+[![Open in Colab](https://img.shields.io/badge/Open%20in-Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1VWpG1qHCgHeC20rcwfWGXnnmi8cpWWcb?usp=sharing)
 
