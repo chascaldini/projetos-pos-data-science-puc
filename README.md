@@ -34,7 +34,7 @@ O trabalho envolve análise exploratória de dados (EDA), preparação e represe
 ## Autora
 
 Charlyne Scaldini  
-Historiadora | Estruturação da informação e qualidade de dados para acervos digitais 
+Historiadora | Estruturação da informação e qualidade de dados para acervos digitais  
 chascaldini@gmail.com  
-[LinkedIn](https://www.linkedin.com/in/charlyne-scaldini-92959a2b2/)
+[LinkedIn](https://www.linkedin.com/in/charlyne-scaldini-92959a2b2/)  
 
