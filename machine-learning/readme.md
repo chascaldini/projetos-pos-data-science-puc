@@ -43,7 +43,8 @@ Definição do problema → Carga dos dados → Inspeção inicial → EDA → S
 ## Como executar
 1. Abra o notebook pelo botão **Open in Colab** abaixo.
 2. Execute todas as células do início ao fim. O tempo aproximado de execução completa é de 30 minutos.
-3. O notebook foi desenvolvido para execução em Google Colab e utiliza o dataset público do **Metropolitan Museum of Art (Met)** carregado diretamente por URL. Informações adicionais sobre a base de dados estão disponíveis na pasta [`data/`](data/).
+3. O notebook foi desenvolvido para execução em Google Colab e utiliza o dataset público do **Metropolitan Museum of Art (Met)** carregado diretamente por URL.  
+   Fonte de dados: https://github.com/metmuseum/openaccess | Arquivo utilizado: MetObjects.csv  
 4. Acompanhe a narrativa do notebook, incluindo as etapas de análise exploratória (EDA), modelagem, avaliação dos modelos e exploração semântica com Word2Vec.
 
 ### Acesse o projeto completo no Colab:
